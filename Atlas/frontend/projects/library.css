@@ -1,9 +1,0 @@
-#project-library-root,
-#project-search-root,
-#project-dialog-root {
-  display: contents;
-}
-.project-error {
-  color: var(--danger, #c43e4a);
-  overflow-wrap: anywhere;
-}

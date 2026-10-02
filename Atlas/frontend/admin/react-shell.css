@@ -1,5 +1,0 @@
-/* Mantém os elementos da aplicação nas posições do layout compartilhado. */
-#admin-root,
-.admin-controls {
-  display: contents;
-}
